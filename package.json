@@ -1,0 +1,22 @@
+{
+  "name": "request",
+  "version": "1.0.0",
+  "description": "trying to install request",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertSAdams32/PairExercise-NodeShell.git"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "Bob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertSAdams32/PairExercise-NodeShell/issues"
+  },
+  "homepage": "https://github.com/RobertSAdams32/PairExercise-NodeShell#readme"
+}
