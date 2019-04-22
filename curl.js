@@ -1,7 +1,5 @@
 const request = require('request');
 
-module.exports = (url) => {
-
-  process.stdout.request(url)
-
-}
+module.exports = url => {
+  return request(url);
+};
